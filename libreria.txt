@@ -1,0 +1,7 @@
+1	Modelo02	100
+30	Modelo04	100
+30	Modelo03	50
+30	Modelo03	100
+29	Modelo01	1500
+10	Modelo02	2000
+1	Modelo02	100
